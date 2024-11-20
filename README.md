@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **GenAI**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.youtube.com/channel/UCCJMk2hYrMZeXlX1GIjTSQw](https://www.youtube.com/channel/UCCJMk2hYrMZeXlX1GIjTSQw)
+- 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
 
 - 💬 Ask me about **Python**
 
