@@ -101,10 +101,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=M-Anas1&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-anas35&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-anas1&" alt="m-anas1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-anas35&" alt="m-anas1" /></p>
 
 ## Recent Blog Posts  
 <div align="center">  
