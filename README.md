@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/muhammad-anas35?tab=repositories)
 
 - 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **manasbwp5@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/M-Anas1?tab=repositories](https://github.com/M-Anas1?tab=repositories)
+- 📄 Know about my experiences [All Experience](https://github.com/muhammad-anas35?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
 - <h2> Connet with <b>me</b> </b>
