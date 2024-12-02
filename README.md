@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm M Anas</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Anas </h1>
 <h3 align="center">A passionate developer from Pakistan .</h3>
 
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **GenAI**
+- 👯 I’m looking to collaborate with **Web Development**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammad-anas35?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **manasbwp5@gmail.com**
+- 📫 How to reach me **Click the Mail button Below**
 
 - 📄 Know about my experiences [All Experience](https://github.com/muhammad-anas35?tab=repositories)
 
