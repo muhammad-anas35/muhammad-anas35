@@ -115,3 +115,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=muhammad-anas35&icon=0&color=0)](https://www.instagram.com/muhammadanas035/)
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/muhammad-anas35/muhammad-anas35/output/snake.svg" alt="Animation Stuckoff" />
+
