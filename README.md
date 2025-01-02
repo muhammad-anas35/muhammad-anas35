@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas </h1>
 <h3 align="center">A passionate developer from Pakistan .</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python** <img style="margin: 12px" src="https://github.com/user-attachments/assets/77aebfda-1791-4d89-9bdc-b3fe242f884d" alt="Python Pic" height="25" />
 
-- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate with **Web Development**
+- 🌱 I’m currently learning **Agentic AI** <img style="margin: 12px" src="https://github.com/user-attachments/assets/d638b5b3-4597-404f-816f-a9f8673517cf" alt="AI Pic" height="25" />
+
+- 👯 I’m looking to collaborate with **Web Development** <img style="margin: 8px" src="https://github.com/user-attachments/assets/eda47bc1-a2b8-48cf-87f0-f87256f67de0" alt="Web Pic" height="25" />
 
 - 🤝 I’m looking for help with **Agentic AI**
 
@@ -20,7 +21,7 @@
 - 📄 Know about my experiences [All Experience](https://github.com/muhammad-anas35?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
-<h2> Connect with <b>me</b> </b>
+<h2> Connect with <b>me</b> </b> <img style="margin: 12px" src="https://github.com/user-attachments/assets/59038f4a-b60c-4dd3-8cb9-b58082a8ea1d" alt="Connect" height="35" />
 
 <div align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-anas35" target="_blank">
@@ -29,16 +30,16 @@
   <a href="https://www.youtube.com/@spygamer51" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="51" height="39" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/manasg75/" target="_blank">
+  <a href="https://www.instagram.com/muhammad_anas35/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="39" alt="instagram logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=923201867156" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=923176336014" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="39" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100086995852777" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="39" alt="facebook logo"  />
   </a>
-  <a href="manasbwp5@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwjdNCRmGwbvGdpbbgDpDwqvrzXKqPghVtGcqNzcVNjTQkSdTwXfDLTFtZncnbHdVbV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
   </a>
 </div>
@@ -50,7 +51,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  <img style="margin: 12px" src="https://github.com/user-attachments/assets/4b8fec44-c8e8-4e47-b32c-a3e5a1828800" alt="Stats" height="40" />
 <table><tr><td valign="top" width="33%">
 
 
@@ -99,8 +100,12 @@
 <br/>  
 
 # 📊 GitHub Stats:
+## Profile Stats <img style="margin: 12px" src="https://github.com/user-attachments/assets/d3d14c6c-d86e-4ece-be69-684a3167eb29" alt="Stats pic" height="35" />
+
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-anas35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## GitHub streak <img style="margin: 12px" src="https://github.com/user-attachments/assets/bd5912c8-9297-4e81-8bc1-ec9d6eb3921f" alt="Streak Pic" height="35" />
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-anas35&theme=dark&hide_border=false)<br/>
+## Top Language <img style="margin: 12px" src="https://github.com/user-attachments/assets/030eb15d-ea6f-456a-b687-43771234a130" alt="Top Language Pic" height="35" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-anas35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -115,7 +120,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## Recent Blog Posts  
+## Recent Blog Posts  <img style="margin: 12px" src="https://github.com/user-attachments/assets/6aa0e878-e845-4157-a6f4-9196882efa02" alt="Blog Pic" height="40" />
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
