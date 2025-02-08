@@ -24,7 +24,7 @@
 <h2> Connect with <b>me</b> </b> <img style="margin: 12px" src="https://github.com/user-attachments/assets/59038f4a-b60c-4dd3-8cb9-b58082a8ea1d" alt="Connect" height="35" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muhammad-anas35" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@spygamer51" target="_blank">
