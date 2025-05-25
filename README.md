@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas </h1>
-<h3 align="center">A passionate developer from Pakistan .</h3>
+<h3 align="center">A passionate Agentic Ai & Cloud first developer from Pakistan .</h3>
 
-- 🔭 I’m currently working on **Python** <img style="margin: 12px" src="https://github.com/user-attachments/assets/77aebfda-1791-4d89-9bdc-b3fe242f884d" alt="Python Pic" height="25" />
+- 🔭 I’m currently working on **Agentic Ai & Cloud First Development** <img style="margin: 12px" src="https://github.com/user-attachments/assets/77aebfda-1791-4d89-9bdc-b3fe242f884d" alt="Python Pic" height="25" />
 
 
 - 🌱 I’m currently learning **Agentic AI** <img style="margin: 12px" src="https://github.com/user-attachments/assets/d638b5b3-4597-404f-816f-a9f8673517cf" alt="AI Pic" height="25" />
 
-- 👯 I’m looking to collaborate with **Web Development** <img style="margin: 8px" src="https://github.com/user-attachments/assets/eda47bc1-a2b8-48cf-87f0-f87256f67de0" alt="Web Pic" height="25" />
+- 👯 I’m looking to collaborate with **Cloud Development** <img style="margin: 8px" src="https://github.com/user-attachments/assets/eda47bc1-a2b8-48cf-87f0-f87256f67de0" alt="Web Pic" height="25" />
 
-- 🤝 I’m looking for help with **Agentic AI**
+- 🤝 I’m looking for help with **Cloud Diployment**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammad-anas35?tab=repositories)
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@spygamer51" target="_blank">
+  <a href="https://www.youtube.com/@tecnotrail4" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="51" height="39" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/muhammad_anas35/" target="_blank">
@@ -36,7 +36,7 @@
   <a href="https://api.whatsapp.com/send?phone=923176336914" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="39" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100086995852777" target="_blank">
+  <a href="https://www.facebook.com/muhammadanas035/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="39" alt="facebook logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwjdNCRmGwbvGdpbbgDpDwqvrzXKqPghVtGcqNzcVNjTQkSdTwXfDLTFtZncnbHdVbV" target="_blank">
@@ -127,7 +127,3 @@
 </div>  
 
 [![](https://visitcount.itsvg.in/api?id=muhammad-anas35&icon=0&color=0)](https://www.instagram.com/muhammadanas035/)
-
-<br clear="both">
-<img src="https://raw.githubusercontent.com/muhammad-anas35/muhammad-anas35/output/snake.svg" alt="Animation Stuckoff" />
-
