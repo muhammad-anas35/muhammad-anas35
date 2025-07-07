@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas </h1>
 <h3 align="center">A passionate Agentic Ai & Cloud first developer from Pakistan .</h3>
 
-- 🔭 I’m currently working on **Agentic Ai & Cloud First Development** <img style="margin: 12px" src="https://github.com/user-attachments/assets/77aebfda-1791-4d89-9bdc-b3fe242f884d" alt="Python Pic" height="25" />
+- 🔭 I’m currently working on **Agentic Ai & Cloud First Development** 
 
+- 🌱 I’m currently learning **Agentic AI** 
 
-- 🌱 I’m currently learning **Agentic AI** <img style="margin: 12px" src="https://github.com/user-attachments/assets/d638b5b3-4597-404f-816f-a9f8673517cf" alt="AI Pic" height="25" />
-
-- 👯 I’m looking to collaborate with **Cloud Development** <img style="margin: 8px" src="https://github.com/user-attachments/assets/eda47bc1-a2b8-48cf-87f0-f87256f67de0" alt="Web Pic" height="25" />
+- 👯 I’m looking to collaborate with **Cloud Development** 
 
 - 🤝 I’m looking for help with **Cloud Diployment**
 
@@ -21,8 +20,7 @@
 - 📄 Know about my experiences [All Experience](https://github.com/muhammad-anas35?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
-<h2> Connect with <b>me</b> </b> <img style="margin: 12px" src="https://github.com/user-attachments/assets/59038f4a-b60c-4dd3-8cb9-b58082a8ea1d" alt="Connect" height="35" />
-
+<h2> Connect with <b>me</b> </b> 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo"  />
@@ -39,91 +37,34 @@
   <a href="https://www.facebook.com/muhammadanas035/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="39" alt="facebook logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfprwjdNCRmGwbvGdpbbgDpDwqvrzXKqPghVtGcqNzcVNjTQkSdTwXfDLTFtZncnbHdVbV" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPGHCbxxFsHPsJjgbvPGGCJqrBkdJKrfmfZlQRmwLznGNTnWhmWsZmrpcbzMGbxJNKgV" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo"  />
   </a>
 </div>
 
 <br/>  
 
-  
-
-<br/>  
-
-
-## My Skill Set  <img style="margin: 12px" src="https://github.com/user-attachments/assets/4b8fec44-c8e8-4e47-b32c-a3e5a1828800" alt="Stats" height="40" />
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Dev oops  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 <br/>  
 
 # 📊 GitHub Stats:
-## Profile Stats <img style="margin: 12px" src="https://github.com/user-attachments/assets/d3d14c6c-d86e-4ece-be69-684a3167eb29" alt="Stats pic" height="35" />
+## Profile Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=muhammad-anas35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-## GitHub streak <img style="margin: 12px" src="https://github.com/user-attachments/assets/bd5912c8-9297-4e81-8bc1-ec9d6eb3921f" alt="Streak Pic" height="35" />
+## GitHub streak 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-anas35&theme=dark&hide_border=false)<br/>
-## Top Language <img style="margin: 12px" src="https://github.com/user-attachments/assets/030eb15d-ea6f-456a-b687-43771234a130" alt="Top Language Pic" height="35" />
+## Top Language 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-anas35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammad-anas35&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammad-anas35&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## Recent Blog Posts  <img style="margin: 12px" src="https://github.com/user-attachments/assets/6aa0e878-e845-4157-a6f4-9196882efa02" alt="Blog Pic" height="40" />
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>  
 
 [![](https://visitcount.itsvg.in/api?id=muhammad-anas35&icon=0&color=0)](https://www.instagram.com/muhammadanas035/)
