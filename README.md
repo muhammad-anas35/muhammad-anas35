@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Agentic Ai & Cloud First Development** 
 
-- 🌱 I’m currently learning **Agentic AI** 
-
 - 👯 I’m looking to collaborate with **Cloud Development** 
 
 - 🤝 I’m looking for help with **Cloud Diployment**
@@ -12,12 +10,6 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/muhammad-anas35?tab=repositories)
 
 - 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **Click the Mail button Below**
-
-- 📄 Know about my experiences [All Experience](https://github.com/muhammad-anas35?tab=repositories)
 
 - ⚡ Fun fact **I am crazy about Coding **
 <h2> Connect with <b>me</b> </b> 
