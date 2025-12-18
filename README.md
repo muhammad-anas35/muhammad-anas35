@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas </h1>
-<h3 align="center">A passionate Agentic Ai & Cloud first developer from Pakistan .</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Anas Asif </h1>
+<h3 align="center">A passionate Ai Native Architect and Engineer from Pakistan .</h3>
 
-- 🔭 I’m currently working on **Openai Agents SDK and MCP Servers** 
+- 🔭 I’m currently working on **Ai Native Development & MCP Servers** 
 
-- 👯 I’m looking to collaborate with **Langchain and Next.js** 
+- 👯 I’m looking to collaborate with **Dokcer & Kubernetes** 
 
-- 🤝 I’m looking for help with **MCP**
+- 🤝 I’m looking for help with **Kubernetes & Micro Services**
 
 - 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
 <h2> Connect with <b>me</b> </b> 
