@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **Kubernetes & Micro Services**
 
 - 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
-<h2> Connect with <b>me</b> </b> 
+<!-- <h2> Connect with <b>me</b> </b> 
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank" style="display: inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo" />
@@ -28,7 +28,7 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPGHCbxxFsHPsJjgbvPGGCJqrBkdJKrfmfZlQRmwLznGNTnWhmWsZmrpcbzMGbxJNKgV" target="_blank" style="display: inline-flex;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo" />
   </a>
-</div>
+</div> -->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
