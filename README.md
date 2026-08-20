@@ -95,9 +95,47 @@ Deploying AI applications using containers, cloud platforms, authentication, and
 **Docker · Vercel · Cloud Infrastructure**
 
 </td>
-
 </tr>
 </table>
+
+---
+
+---
+
+# 🧠 AI Engineering
+
+## ✍️ Prompt Engineering
+
+Designing structured prompts and agent instructions that improve reasoning, tool usage, consistency, and reliable outputs.
+
+**Prompt Design · Structured Outputs · Tool Calling · Agent Instructions**
+
+|   |
+| - |
+
+## 🧩 Context Engineering
+
+Designing how AI systems receive, retrieve, store, and manage the right context at the right time.
+
+**RAG · Memory · Context Management · Knowledge Retrieval**
+
+|   |
+| - |
+
+## 🔁 Loop Engineering
+
+Building autonomous execution loops that allow agents to continuously process tasks, handle failures, retry operations, and recover from errors.
+
+**Autonomous Loops · Retry Logic · Error Recovery · Task Processing**
+
+|   |
+| - |
+
+## 🤖 Agent Engineering
+
+Building production-oriented agents with tools, skills, planning, guardrails, memory, and human-in-the-loop workflows.
+
+**Agent Skills · Tool Use · Guardrails · Planning · Human-in-the-Loop**
 
 ---
 
