@@ -1,121 +1,179 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas Asif </h1>
-<h3 align="center">I build AI agents and autonomous workflows that automate real business processes.</h3>
-</br>
+# 👋 Hi, I'm Muhammad Anas Asif
 
-- Currently building **production-oriented AI Employees, agentic workflows, MCP integrations, and cloud-native AI systems**. 
+### 🤖 Agentic AI Engineer | AI Employees | Business Automation | MCP
 
-  <h2> What  I Build in Ai.</h2>
-  
-- AI Employees
-- Multi-agent systems
-- Business process automation
-- MCP servers & tool integrations
-- Production AI APIs
-  </br>
+I build **AI agents and autonomous workflows that automate real business processes.**
 
-- <h3>📝 Here's a carefully curated portfolio of my engineering ability.</h3>
-- [Projects Details](https://muhammad-anas-portfolio1.vercel.app/)
-  
-<!-- <h2> Connect with <b>me</b> </b> 
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="39" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@tecnotrail4" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="51" height="39" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/muhammad_anas35/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="51" height="39" alt="instagram logo" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=923176336914" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="39" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.facebook.com/muhammadanas035/" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="51" height="39" alt="facebook logo" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWPGHCbxxFsHPsJjgbvPGGCJqrBkdJKrfmfZlQRmwLznGNTnWhmWsZmrpcbzMGbxJNKgV" target="_blank" style="display: inline-flex;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo" />
-  </a>
-</div> -->
-</br>
+Currently focused on building:
 
-## 🛠️ Tech Stack
+- 🤖 AI Employees
+- 🧠 Agentic AI Systems
+- 🔄 Business Process Automation
+- 🔌 MCP Servers & Tool Integrations
+- ⚙️ Production AI APIs
+- ☁️ Cloud-Native AI Applications
+
+<p align="center">
+  <a href="https://github.com/muhammad-anas35">
+    <img src="https://img.shields.io/github/followers/muhammad-anas35?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/muhammad-anas35">
+    <img src="https://img.shields.io/github/stars/muhammad-anas35?affiliations=OWNER&style=for-the-badge" />
+  </a>
+  <a href="https://muhammad-anas-portfolio1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 🚀 What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 AI / Agentic Systems
+<td width="33%" align="center">
 
-- 🐍 Python
-- 🧠 LLM APIs
-- 🔗 Agent Orchestration
-- 🔌 MCP
-- 📚 RAG
-- 🛠️ Tool Calling
+## 🤖 AI Employees
+
+Autonomous AI workers that monitor tasks, make decisions, use tools, and execute business workflows.
+
+**Python · LLMs · Agent Skills · Tool Calling**
 
 </td>
-<td width="50%" valign="top">
 
-### ⚙️ Backend / Infrastructure
+<td width="33%" align="center">
 
-- ⚡ FastAPI
-- 🐳 Docker
-- 🗄️ Supabase
-- 🐘 PostgreSQL
-- 🔗 REST APIs
+## 🧠 Agentic Systems
+
+Agents with tools, memory, guardrails, RAG, orchestration, and autonomous execution.
+
+**RAG · MCP · Multi-Agent · LLM APIs**
 
 </td>
+
+<td width="33%" align="center">
+
+## 🔄 Business Automation
+
+Automating repetitive business processes across email, social media, accounting, files, and internal systems.
+
+**n8n · APIs · Playwright · Automation**
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 🔄 Automation
+<td width="33%" align="center">
 
-- n8n
-- Zapier
-- API Integrations
-- Business Process Automation
+## 🔌 MCP & Integrations
 
-</td>
-<td width="50%" valign="top">
+Connecting AI agents with external applications, tools, APIs, and business systems.
 
-### 🎨 Frontend
-
-- ▲ Next.js
-- ⚛️ React
-- 📘 TypeScript
-- 🎨 Tailwind CSS
+**MCP · APIs · Playwright · Tool Integration**
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🧠 Data / AI Infrastructure
+## ⚙️ Backend Systems
 
-- 🌲 Pinecone
-- 🟣 ChromaDB
-- Vector Search
-- Embeddings
-- Knowledge Retrieval
+Building reliable APIs and backend infrastructure for AI-powered applications.
+
+**FastAPI · Python · PostgreSQL · Supabase**
 
 </td>
-<td width="50%" valign="top">
 
-### ☁️ Deployment & Systems
+<td width="33%" align="center">
 
-- 🐳 Docker
-- ☁️ Vercel
-- 🔐 Authentication
-- 📊 Monitoring
+## ☁️ Cloud & Deployment
+
+Deploying AI applications using containers, cloud platforms, authentication, and monitoring.
+
+**Docker · Vercel · Cloud Infrastructure**
 
 </td>
+
 </tr>
 </table>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 
+# 🏆 Featured Project
+
+## 🤖 AI Employee — Gold Tier
+
+A fully integrated **AI Employee system** designed to automate real business operations across multiple domains.
+
+### 🎯 Project Achievement
+
+| Metric | Result |
+|---|---:|
+| 🏆 Gold Tier Requirements | **12/12** |
+| 🧠 Agent Skills | **15+** |
+| 🐍 Python Files | **30+** |
+| 💻 Lines of Code | **5,000+** |
+| 📚 Documentation | **20+ files** |
+| 🔄 Cross-Domain Workflows | **Implemented** |
+| 🔌 MCP Servers | **Filesystem + Playwright** |
+| 🧪 Test Coverage | **100%** |
+
+### 🔥 Key Capabilities
+
+- 🤖 Autonomous task processing
+- 🔄 Cross-domain workflow orchestration
+- 📧 Gmail monitoring and email automation
+- 💰 Odoo accounting and invoice automation
+- 📱 Facebook / Instagram automation
+- 🐦 Twitter / X automation
+- 💼 LinkedIn automation
+- 💬 WhatsApp monitoring
+- 🔌 Multiple MCP servers
+- 🧑‍💻 Human-in-the-loop approval workflows
+- 🛡️ Error recovery with exponential backoff
+- 📊 Comprehensive audit logging
+- 📈 Weekly business intelligence reports
+- 🔁 Autonomous processing loops
+- 📁 File-system monitoring
+- 🧠 Agent Skills architecture
+
+### 🏗️ Architecture
+
+```text
+                         ┌──────────────────────┐
+                         │      AI Employee     │
+                         │    Agentic Brain     │
+                         └──────────┬───────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    │               │               │
+                    ▼               ▼               ▼
+              ┌──────────┐   ┌───────────┐   ┌───────────┐
+              │   MCP    │   │ Workflow  │   │  Agent    │
+              │ Servers  │   │Orchestrator│  │  Skills   │
+              └────┬─────┘   └─────┬─────┘   └─────┬─────┘
+                   │               │               │
+                   └───────────────┼───────────────┘
+                                   │
+          ┌────────────────────────┼────────────────────────┐
+          │                        │                        │
+          ▼                        ▼                        ▼
+     ┌──────────┐             ┌──────────┐             ┌──────────┐
+     │  Gmail   │             │  Odoo    │             │ Social   │
+     │          │             │Accounting│             │  Media   │
+     └──────────┘             └──────────┘             └──────────┘
+          │                        │                        │
+          └────────────────────────┼────────────────────────┘
+                                   │
+                                   ▼
+                         ┌──────────────────┐
+                         │ Approval System  │
+                         │ Human-in-Loop    │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │ Audit & Reports  │
+                         └──────────────────┘
