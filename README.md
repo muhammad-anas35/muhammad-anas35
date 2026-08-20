@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas Asif </h1>
-<h3 align="center">A passionate Ai Native Architect and Engineer from Pakistan .</h3>
+<h3 align="center">I build AI agents and autonomous workflows that automate real business processes.</h3>
 
-- 🔭 I’m currently working on **Ai Native Development & MCP Servers** 
+-  I’m working on **Agentic AI Core | AI Employees | Ai Orchestration & MCP** 
 
-- 👯 I’m looking to collaborate with **Dokcer & Kubernetes** 
+-  I’m looking to collaborate with **Dokcer or Kubernetes & Cloud Services** to build a vertical System.
 
-- 🤝 I’m looking for help with **Kubernetes & Micro Services**
+  <h2> What  I Build </h2>
+  
+- AI Employees
+- Multi-agent systems
+- Business process automation
+- MCP servers & tool integrations
+- Production AI APIs
+  </br>
 
-- 📝 My portfolio  [Website](https://muhammad-anas-portfolio1.vercel.app/)
+- <h3>📝 Here's a carefully curated portfolio of my engineering ability.</h3>
+- [Projects Details](https://muhammad-anas-portfolio1.vercel.app/)
+  
 <!-- <h2> Connect with <b>me</b> </b> 
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/muhammad-anas35/" target="_blank" style="display: inline-flex;">
