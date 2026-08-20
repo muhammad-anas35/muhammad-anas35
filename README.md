@@ -37,12 +37,85 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="39" alt="gmail logo" />
   </a>
 </div> -->
+</br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## 🛠️ Tech Stack
 
-<br/>  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / Agentic Systems
+
+- 🐍 Python
+- 🧠 LLM APIs
+- 🔗 Agent Orchestration
+- 🔌 MCP
+- 📚 RAG
+- 🛠️ Tool Calling
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend / Infrastructure
+
+- ⚡ FastAPI
+- 🐳 Docker
+- 🗄️ Supabase
+- 🐘 PostgreSQL
+- 🔗 REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Automation
+
+- n8n
+- Zapier
+- API Integrations
+- Business Process Automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+- ▲ Next.js
+- ⚛️ React
+- 📘 TypeScript
+- 🎨 Tailwind CSS
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Data / AI Infrastructure
+
+- 🌲 Pinecone
+- 🟣 ChromaDB
+- Vector Search
+- Embeddings
+- Knowledge Retrieval
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Deployment & Systems
+
+- 🐳 Docker
+- ☁️ Vercel
+- 🔐 Authentication
+- 📊 Monitoring
+
+</td>
+</tr>
+</table>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
